@@ -1,15 +1,17 @@
 #!/usr/bin/python3
 
+
 import random
 import os
 import time
 from unicodedata import name
 
+
 def clear():
     os.system("clear")
 
-# Set of instructions for Rock_Paper_Scissors
 def rps_instruction():
+    """,Set of instructions for Rock_Paper_Scissors """
     print()
     print("Instructions for Rock_Paper_Scissors : ")
     print()
@@ -18,8 +20,8 @@ def rps_instruction():
     print("Paper covers Rock")
     print()
 
-# Set of instructions for Rock_Paper_Scissors_Lizard_Spock
 def rpsls_instruction():
+    """" Set of instructions for Rock_Paper_Scissors_Lizard_Spock """
     print()
     print("Instructions for Rock_Paper_Scissors_Lizard_Spock : ")
     print()
@@ -68,7 +70,7 @@ def rps():
             player_move = 2
         else:
             clear()
-            print("Wrong Input!")
+            print("Oups! wrong input!")
             rps_instruction()
             continue
 
