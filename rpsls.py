@@ -11,7 +11,7 @@ def clear():
     os.system("clear")
 
 def rps_instruction():
-    """,Set of instructions for Rock_Paper_Scissors """
+    """ Set of instructions for Rock_Paper_Scissors """
     print()
     print("Instructions for Rock_Paper_Scissors : ")
     print()
