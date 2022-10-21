@@ -28,6 +28,7 @@ def rpsls_instruction():
     print("Scissors cuts Paper")
     print("Paper covers Rock")
     print("Rock crushes Lizard")
+    print("Lizard poisons Spock")
     print("Spock smashes Scissors")    
     print("Scissors decapitates Lizard")
     print("Lizard eats Paper")
