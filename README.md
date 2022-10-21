@@ -1,4 +1,5 @@
 ## Rock - Paper - Scissors - Lizard - Spock  
+![RockPaperScissorsLizardSpock](https://user-images.githubusercontent.com/105150447/196041020-77d0b9e5-3349-4a7b-a7d9-cc1d83eaa0f8.jpg)
 
 In the series of **Big Ban Theory**, there is an extension of the classic game of chance, Rock Paper Scissors, created by Sam Kass and Karen Bryla.
 
